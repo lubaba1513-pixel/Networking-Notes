@@ -54,6 +54,27 @@ A network consists of several components working together.
 | 🔌 Transmission Media | Carries data through cables or wireless signals |
 | 📜 Protocols | Rules that define how devices communicate (e.g., TCP/IP) |
 
+
+## 🖼️ How Network Components Work Together
+
+```text
+                  🌍 Internet
+                       │
+                   🌐 Router
+                       │
+               ┌───────┴────────┐
+               │                │
+           🔀 Switch        📶 Access Point
+          ┌──┼──┐             )))))
+         💻 🖥️ 🖨️         📱    💻
+```
+
+**Explanation**
+
+- 🌐 Router connects your local network to the Internet.
+- 🔀 Switch connects wired devices inside the same network.
+- 📶 Access Point provides wireless (Wi-Fi) connectivity.
+
 ---
 
 # 🌍 Types of Networks
@@ -100,6 +121,28 @@ A **PAN** connects devices around a single person, usually using Bluetooth.
 - Phone ↔ Wireless Earbuds
 - Laptop ↔ Bluetooth Mouse
 
+
+## 🖼️ Network Types Overview
+text
+
+                   🌍 WAN
+              (The Internet)
+                    │
+        ┌───────────┴───────────┐
+        │                       │
+     🏢 LAN                  🏠 LAN
+    💻🖥️🖨️                 💻📱📺
+                              │
+                         📶 WLAN
+                              │
+                         📱⌚ PAN
+
+**Explanation**
+
+- **LAN** connects devices in one location (home, school, office).
+- **WAN** connects multiple LANs over long distances.
+- The **Internet** is the largest WAN.
+
 ---
 
 # 📡 How Do Networks Communicate?
@@ -139,7 +182,28 @@ The destination device combines all the packets back into the original message.
 
 The user sees the complete message without noticing the process happening behind the scenes.
 
+
+## 🖼️ Data Flow
+
+```text
+📱 Phone
+    │
+    ▼
+📶 Wi-Fi Router
+    │
+    ▼
+🌍 Internet
+    │
+    ▼
+🖥️ Web Server
+    │
+    ▼
+📱 Phone receives response
+```
+
+Every time you open a website, send an email, or watch YouTube, your data follows a similar journey.
 ---
+
 
 # 🌍 Real-Life Scenario
 
