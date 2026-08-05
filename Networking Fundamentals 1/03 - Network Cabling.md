@@ -1,5 +1,4 @@
-# 🔌 Network Cables
-
+# 🔌 Network Cabling
 > *"Every message, email, video, or file you send needs a path to travel. Network cables provide that physical path."*
 
 ---
@@ -26,7 +25,7 @@ Even if the gift is ready, it can't reach its destination without a road.
 
 Data works the same way.
 
-Before computers can communicate, they need a **physical path** to carry information.
+Before computers can exchange information, they need a physical path for data to travel.
 
 That physical path is called a **network cable**.
 
@@ -231,8 +230,9 @@ This allows extremely fast communication over very long distances.
 
 # 🔌 RJ45 Connector
 
-The **RJ45 connector** is the standard connector used with Ethernet cables.
+The **RJ45 connector** is the standard connector used with Ethernet (UTP/STP) cables.
 
+It is commonly found on computers, switches, routers, and network wall outlets.
 It connects devices like:
 
 - Computers
@@ -340,6 +340,6 @@ Excellent work! 🎉 You now understand the physical cables that carry data acro
 
 Next, we'll explore **Network Devices**, where you'll learn how routers, switches, hubs, modems, and access points work together to direct and manage network traffic.
 
-> **Remember:** Cables provide the path—but network devices decide where the data goes.
+> **Remember:** A network cable is like a road, but network devices are the traffic controllers that decide where data should travel.
 
 ➡️ **Next Chapter:** 🛠️ Network Devices
