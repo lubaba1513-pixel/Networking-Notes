@@ -109,8 +109,7 @@ Inside the cable are **four pairs of copper wires** twisted together.
 
 The twisting helps reduce interference.
 
-🖼️ *(Insert your first cable cross-section image here.)*
-
+> 📌 **Diagram:** A visual illustration of this cable type will be added in a future update.
 ### Types
 
 ### UTP (Unshielded Twisted Pair)
