@@ -28,15 +28,14 @@ The way you design the roads determines how easily people can travel.
 
 Networks work the same way.
 
-**The design of those connections is called a Network Topology.**
-
+This design or arrangement of connections is called a **Network Topology**.
 ---
 
 # 📖 What is a Network Topology?
 
 A **network topology** is the layout of a network.
 
-It shows:
+A topology helps us understand:
 
 - How devices are connected.
 - How they communicate.
@@ -153,7 +152,13 @@ Every device connects to one central device (usually a switch).
      💻   🖨️   📱
 ```
 
-🌍 **Real-Life:** Home and office Wi-Fi.
+🌍 **Real-Life Example**
+
+Think about your home Wi-Fi.
+
+Your laptop, smartphone, smart TV, and printer all connect to the same router or switch.
+
+This is the most common example of a **Star Topology**.
 
 👍 Advantages
 
@@ -340,4 +345,4 @@ Understanding topology helps you:
 
 # 📚 What's Next?
 
-Now that you understand **Network Topologies**, the next step is learning the **OSI Model**, where you'll discover how data travels layer by layer across a network.
+Now that you understand **Network Topologies**, the next step is learning the  **Network Cables**—the physical pathways that carry data between devices. You'll learn about different cable types, their uses, advantages, and where you'll find them in real-world networks.
