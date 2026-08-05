@@ -118,10 +118,18 @@ Think of it like cars travelling on a highway.
 
 ---
 
-# 🔄 Physical vs Wireless Devices
+# 🔄 Wired vs Wireless Devices
 
-## 🖥️ Physical Devices
+# 🖥️ Wired Devices
 
+Use Ethernet or fiber optic cables.
+
+Examples:
+
+- Hub
+- Switch
+- Router
+- Modem
 Use Ethernet or fiber cables.
 
 Examples:
@@ -211,8 +219,7 @@ Home and office networks.
 
 A **Router** connects different networks together.
 
-It uses **IP addresses** to determine the best path for data.
-
+It uses **IP addresses** to determine the best path for data and forwards packets between different networks.
 ### 🔑 Key Function
 
 Connects your local network to other networks, including the Internet.
@@ -267,8 +274,7 @@ The Wi-Fi in your school, office, or shopping mall.
 
 # 📊 Device Comparison
 
-| Device | Main Job | Uses | Address Type |
-|---------|----------|------|--------------|
+| Device | Main Function | Common Use | Uses |
 | Hub | Broadcast data | Small/Old Networks | None |
 | Switch | Send data to the correct device | LAN | MAC Address |
 | Router | Connect networks | Internet & LAN | IP Address |
