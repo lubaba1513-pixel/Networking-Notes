@@ -18,9 +18,9 @@ The purpose of this repository is to:
 ## Networking Fundamentals 1
 
 - ✅ Network Overview
-- ⏳ Network Topologies
-- ⏳ Network Cabling
-- ⏳ Network Devices
+- ✅ Network Topologies
+- ✅ Network Cabling
+- ✅ Network Devices
 - ⏳ OSI Model
 - ⏳ TCP/IP Model
 
