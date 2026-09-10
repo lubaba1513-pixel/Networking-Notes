@@ -21,8 +21,11 @@ The purpose of this repository is to:
 - ✅ Network Topologies
 - ✅ Network Cabling
 - ✅ Network Devices
-- ⏳ OSI Model
-- ⏳ TCP/IP Model
+- ✅ OSI Model
+- ✅ TCP/IP Model
+- ✅ Network Protocols
+- ✅ Networking Ports
+  
 
 ---
 
