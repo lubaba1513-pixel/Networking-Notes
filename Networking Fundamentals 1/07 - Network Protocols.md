@@ -641,4 +641,4 @@ Excellent work! 🎉 You now understand what network protocols are, why standard
 
 > **Remember:** Networks work because devices follow common rules and protocols work together as a stack.
 
-➡️ **Next Chapter:** 🔢 IP Addressing
+➡️ **Next Chapter:** **Network Ports!**
