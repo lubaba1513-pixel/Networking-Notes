@@ -57,8 +57,9 @@ Internet
 
 Network cables provide:
 
+Network cables provide:
+
 - 🚀 Fast data transfer
-- 🔒 Secure communication
 - 📡 Reliable connectivity
 - ⚡ Low latency
 - 📈 Stable performance
@@ -191,7 +192,7 @@ Fiber optic cables carry data using **light instead of electricity**.
 
 This allows extremely fast communication over very long distances.
 
-🖼️ *(Insert cable anatomy image here.)*
+
 
 ### 🌍 Real-Life Example
 
@@ -209,14 +210,13 @@ This allows extremely fast communication over very long distances.
 ### 👎 Disadvantages
 
 - More expensive
-- Fragile
+- Requires careful handling
 - Requires specialized equipment
 
 ---
 
 # 📊 Cable Comparison
 
-*(Insert your comparison table image here.)*
 
 | Cable | Speed | Distance | Cost | Best For |
 |--------|--------|----------|------|-----------|
