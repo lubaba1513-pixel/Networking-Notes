@@ -59,8 +59,8 @@ A good topology helps a network:
 - 📈 Grow easily
 - 💰 Reduce cost
 
-> 💡 **Did You Know?**  
-> Almost every modern home and office uses a **Star Topology**.
+> 💡 **Did You Know?**
+> Star topology is very common in modern Ethernet networks because devices typically connect through a central switch or network device.
 
 ---
 
