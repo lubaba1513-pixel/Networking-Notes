@@ -166,7 +166,6 @@ A **Coaxial Cable** has one copper conductor surrounded by insulation and a prot
 
 It reduces signal loss over longer distances.
 
-🖼️ *(Insert cable anatomy image here.)*
 
 ### 🌍 Real-Life Example
 
