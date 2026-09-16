@@ -120,17 +120,9 @@ Think of it like cars travelling on a highway.
 
 # 🔄 Wired vs Wireless Devices
 
-# 🖥️ Wired Devices
+## 🖥️ Wired Devices
 
 Use Ethernet or fiber optic cables.
-
-Examples:
-
-- Hub
-- Switch
-- Router
-- Modem
-Use Ethernet or fiber cables.
 
 Examples:
 
@@ -274,13 +266,12 @@ The Wi-Fi in your school, office, or shopping mall.
 
 # 📊 Device Comparison
 
-| Device | Main Function | Common Use | Uses |
-| Hub | Broadcast data | Small/Old Networks | None |
-| Switch | Send data to the correct device | LAN | MAC Address |
-| Router | Connect networks | Internet & LAN | IP Address |
-| Modem | Connect to ISP | Internet Access | Signal Conversion |
-| Access Point | Provide Wi-Fi | Wireless Networks | Wireless Communication |
-
+| Device | Main Function | Common Use | Key Technology |
+Hub       | Broadcast data              | Older networks | None
+Switch    | Forward data                | LAN            | MAC address
+Router    | Connect networks            | Internet/LAN   | IP address
+Modem     | Connect to ISP              | Internet       | Signal conversion
+Access Point | Provide Wi-Fi            | Wireless LAN   | Wi-Fi
 ---
 
 # 🌍 How Network Devices Work Together
