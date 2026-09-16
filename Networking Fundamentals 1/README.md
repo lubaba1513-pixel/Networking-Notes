@@ -41,22 +41,20 @@ Networking Notes
 
 Each folder follows the same structure as my learning path, making it easy to track my progress and revisit topics whenever needed.
 
-## 🚀 Learning Journey
+## 📚 Networking Fundamentals 1
 
-This repository will continue to grow as I progress through my networking studies.
+Completed topics:
 
-Upcoming topics include:
+- ✅ Network Overview
+- ✅ Network Topologies
+- ✅ Network Cabling
+- ✅ Network Devices
+- ✅ OSI Model
+- ✅ TCP/IP Model
+- ✅ Network Protocols
+- ✅ Network Ports
 
-- Network Topologies
-- Network Cabling
-- Network Devices
-- OSI Model
-- TCP/IP Model
-- Routing & Switching
-- Network Protocols
-- Subnetting
-- Network Security
-- And much more...
+🚧 More networking topics will be added in future Fundamentals modules.
 
 ## 🎓 Why I Built This
 
