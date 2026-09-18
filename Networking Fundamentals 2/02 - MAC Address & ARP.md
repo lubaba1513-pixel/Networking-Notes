@@ -64,7 +64,7 @@ Ethernet Adapter  → MAC Address B
 
 ------------------------------------------------------------------------
 
-# 1️⃣ MAC Address = Physical Identity
+# 1️⃣ MAC Address = Local Network Interface Identity
 
 Think of a MAC address as the **local identity** of a network interface.
 
