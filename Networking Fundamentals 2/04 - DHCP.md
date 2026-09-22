@@ -17,8 +17,6 @@ After completing this chapter, you will be able to:
 
 # 📖 What is DHCP?
 
-**DHCP** stands for **Dynamic Host Configuration Protocol**.
-
 It is a network protocol that automatically provides devices with the network settings they need to communicate.
 
 Instead of entering network settings manually on every device, DHCP can provide them automatically.
@@ -40,7 +38,7 @@ P = Protocol
 
 ## What Does DHCP Actually Do?
 
-When a device connects to a network, the DHCP server can provide four important pieces of information:
+When a device connects to a network, the DHCP server can provide several important network settings, including:
 
 | Information | Simple Meaning |
 |---|---|
