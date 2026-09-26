@@ -92,11 +92,11 @@ These notes are designed to be:
 # 🚀 Progress
 
 - ✅ 01 - Binary & Hex
-- ⬜ 02 - MAC Address & ARP
-- ⬜ 03 - IP Addresses
-- ⬜ 04 - DHCP
-- ⬜ 05 - DNS
-- ⬜ 06 - Subnetting
+- ✅ 02 - MAC Address & ARP
+- ✅ 03 - IP Addresses
+- ✅ 04 - DHCP
+- ✅ 05 - DNS
+- ✅ 06 - Subnetting
 - ⬜ 07 - NAT
 - ⬜ 08 - Encryption
 
