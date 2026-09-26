@@ -125,6 +125,7 @@ A subnet mask is made from **1s and 0s** in binary.
 
 ### The simple rule:
 
+So, In a subnet mask:
 ```text
 1 = Network portion
 0 = Host portion
