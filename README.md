@@ -79,3 +79,55 @@ Networking Fundamentals 2
 Networking Fundamentals 3
         ↓
 More Advanced Networking & Cybersecurity
+_______________________________________
+
+# 🛡️ Why Networking Matters in Cybersecurity
+
+Networking is a core part of cybersecurity.
+
+Understanding networking helps me better understand:
+
+- 🌐 IP addresses and network communication
+- 🔌 Ports and protocols
+- 📡 DNS and DHCP
+- 🔀 Routing and NAT
+- 🖥️ Network devices
+- 📦 Packets and traffic
+- 🔐 Encryption
+- 🚨 Network-based attacks
+- 🔎 SOC monitoring and investigation
+
+---
+
+# 🧠 My Learning Approach
+
+These notes are designed to be:
+
+- ✨ Simple and beginner-friendly
+- 📌 Concise and easy to revise
+- 🌍 Connected to real-world examples
+- 🛡️ Related to cybersecurity where useful
+- 📊 Supported with tables and simple diagrams
+- 💻 Focused on practical understanding
+
+---
+
+# 📈 Progress
+
+| Module | Progress |
+|---|---|
+| Networking Fundamentals 1 | 8 / 8 ✅ |
+| Networking Fundamentals 2 | 8 / 8 ✅ |
+| Networking Fundamentals 3 | Not started 🚧 |
+
+---
+
+# 🚀 What's Next?
+
+I'll continue adding new networking topics as I progress through my learning journey.
+
+> *One concept at a time. One layer at a time. One step closer to becoming a stronger cybersecurity professional.*
+
+---
+
+⭐ **This repository is a work in progress and will continue to grow with my networking journey.**
