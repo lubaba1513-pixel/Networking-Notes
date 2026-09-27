@@ -1,32 +1,81 @@
 # 🌐 Networking Notes
 
-Welcome!
+> *"Build strong networking fundamentals today to become a better cybersecurity professional tomorrow."*
 
-This repository contains my personal networking notes created while learning networking for cybersecurity and SOC analysis.
+These are my personal networking notes created while learning networking for **cybersecurity and SOC analysis**.
 
-The purpose of this repository is to:
+The goal of this repository is to keep networking concepts **simple, practical, and easy to revise** while documenting my learning journey.
 
-- 📚 Revise networking concepts
-- 🛡️ Strengthen cybersecurity fundamentals
-- 💼 Build a professional GitHub portfolio
+---
+
+# 🎯 Why I Created This Repository
+
+- 📚 Revise networking concepts easily
+- 🛡️ Strengthen cybersecurity and SOC fundamentals
+- 🧠 Understand networking through simple explanations and examples
+- 💻 Connect theory with practical cybersecurity scenarios
 - 📝 Document my learning journey
+- 💼 Build a professional GitHub learning portfolio
 
 ---
 
 # 📂 Course Structure
 
-## Networking Fundamentals 1
+The repository is organized into different **Networking Fundamentals** modules.
 
-- ✅ Network Overview
-- ✅ Network Topologies
-- ✅ Network Cabling
-- ✅ Network Devices
-- ✅ OSI Model
-- ✅ TCP/IP Model
-- ✅ Network Protocols
-- ✅ Networking Ports
-  
+## 📘 Networking Fundamentals 1
+
+> *The foundation of networking.*
+
+| # | Topic | Status |
+|---|---|---|
+| 01 | Network Overview | ✅ |
+| 02 | Network Topologies | ✅ |
+| 03 | Network Cabling | ✅ |
+| 04 | Network Devices | ✅ |
+| 05 | OSI Model | ✅ |
+| 06 | TCP/IP Model | ✅ |
+| 07 | Network Protocols | ✅ |
+| 08 | Network Ports | ✅ |
+
+📁 **[Open Networking Fundamentals 1](./Networking%20Fundamentals%201/)**
 
 ---
 
-More modules will be added as I continue learning.
+## 📗 Networking Fundamentals 2
+
+> *Understanding how devices are identified, addressed, and communicate across networks.*
+
+| # | Topic | Status |
+|---|---|---|
+| 01 | Binary & Hex | ✅ |
+| 02 | MAC Address & ARP | ✅ |
+| 03 | IP Addresses | ✅ |
+| 04 | DHCP | ✅ |
+| 05 | DNS | ✅ |
+| 06 | Subnetting | ✅ |
+| 07 | NAT | ✅ |
+| 08 | Encryption | ✅ |
+
+📁 **[Open Networking Fundamentals 2](./Networking%20Fundamentals%202/)**
+
+---
+
+## 📕 Networking Fundamentals 3
+
+> *Coming next...*
+
+🚧 **Not started yet**
+
+---
+
+# 🗺️ Learning Path
+
+```text
+Networking Fundamentals 1
+        ↓
+Networking Fundamentals 2
+        ↓
+Networking Fundamentals 3
+        ↓
+More Advanced Networking & Cybersecurity
