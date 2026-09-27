@@ -24,8 +24,7 @@
 | 05 | DNS | Translating domain names into IP addresses and DNS resolution |
 | 06 | Subnetting | Dividing networks into smaller subnets and calculating network ranges |
 | 07 | NAT | Allowing private networks to communicate with the public Internet using NAT |
-| 08 | Encryption | Encryption, hashing, PKI, and SSL/TLS |
-
+| 08 | Encryption | Symmetric & asymmetric encryption, digital signatures, TLS |
 # 🗺️ Learning Path
 
 The topics are arranged in a learning order because each concept helps you understand the next one.
@@ -97,15 +96,16 @@ These notes are designed to be:
 - ✅ 04 - DHCP
 - ✅ 05 - DNS
 - ✅ 06 - Subnetting
-- ⬜ 07 - NAT
-- ⬜ 08 - Encryption
+- ✅ 07 - NAT
+- ✅ 08 - Encryption
 
-> **Networking Fundamentals 2 — In Progress 🚧**
+> **Networking Fundamentals 2 — Completed 🚧**
 
 # 📚 What's Next?
 
 After completing Networking Fundamentals 2, the journey will continue with more advanced networking concepts and practical cybersecurity knowledge.
 
+Stay Tuned for Network Fundamentals 3
 ---
 
 Part of the **[Networking Notes](../README.md)** repository.
